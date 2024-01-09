@@ -1715,10 +1715,6 @@ input:checked + .toggle-bg{
   padding-inline-start: 0.75rem;
 }
 
-.pt-12{
-  padding-top: 3rem;
-}
-
 .pt-2{
   padding-top: 0.5rem;
 }
